@@ -1,1 +1,3 @@
-# and-react-test-app
+### `npm start`
+
+npm update
